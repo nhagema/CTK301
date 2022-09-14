@@ -1,0 +1,55 @@
+h1 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+h2 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+h3 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+h4 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+h5 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+h6 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+a {
+  color: #ff0000;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+
+#div3 {
+  color: #0000FF;
+  background-color: #FFFF00;
+}
+
+.spanstyle {
+  color: #FF0000;
+}
