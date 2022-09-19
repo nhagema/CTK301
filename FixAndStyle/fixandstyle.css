@@ -1,0 +1,55 @@
+h1 {
+  color: #FFFFFF;
+  background-color: #7187AD;
+}
+
+h2 {
+  color: #0023AD;
+}
+
+h3 {
+  background-color: #fffc00
+}
+
+h4 {
+  color: #fffc00;
+  background-color: #006424
+}
+
+h5 {
+  color: #ff0000;
+}
+
+a:link {
+ color: #00ff00;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #ff0000;
+ text-decoration: underline;
+}
+
+.green {
+  background-color: #68d08d;
+}
+
+.black {
+  color: #000000;
+}
+
+.yellow {
+  background-color: #fffc00;
+}
+
+.orange {
+  color: #AD5700;
+}
+
+.red {
+  color: #ff0000;
+}
+
+#lightblue {
+  color: #0000FF;
+  background-color: #7187AD;
