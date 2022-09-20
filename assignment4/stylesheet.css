@@ -1,0 +1,100 @@
+h1 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h2 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h3 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h4 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h5 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h6 {
+  color: #FF4119;
+  background-color: #80CBB3;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+a {
+  color: #ff0000;
+  font-family: sans-serif;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+#div3 {
+  color: #0000FF;
+  background-color: #FFFF00;
+}
+
+.spanstyle {
+  color: #FF0000;
+}
+
+.customtext {
+  font-family: sans-serif;
+}
+
+.imgbox {
+border: 20px solid #000000;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color: #ffffff;
+}
+
+body {
+  background-image: url(paintbrush.jpeg);
+}
+
+.textjustify {
+text-align: justify;
+}
+
+.textcenter {
+  text-align: center;
+}
